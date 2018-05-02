@@ -1,0 +1,9 @@
+{
+  "id" : 1,
+  "name" : "Maths",
+  "lecturer" : {
+    "age" : 5,
+    "lecturername" : "Mustermann"
+  },
+  "date" : "2018-04-25T13:42:33.289+0000"
+}
